@@ -1,5 +1,5 @@
 # php-storm-plugins
-Must hava plugins for PhpStorm
+Must have plugins for PhpStorm
 
 Необходимый набор плагинов для разработки в PHPStorm
 
